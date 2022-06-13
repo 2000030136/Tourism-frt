@@ -27,7 +27,7 @@ project Url:
 
 Sample Images:
 
-![image](https://user-images.githubusercontent.com/76051929/173296574-05746ed9-013c-4c71-a1ae-83194d1a533f.png)
+![image](https://user-images.githubusercontent.com/76051929/173297343-34054edb-884a-4c5a-99b6-bbcfa81e3876.png)
 
 ![image](https://user-images.githubusercontent.com/76051929/173296669-020c288e-ee9c-46e7-9100-e70f36379530.png)
 
